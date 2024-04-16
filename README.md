@@ -17,6 +17,13 @@ Tasks to address for thid Dashboard:
 - Find correlations and co-occurrences of different variables.
 - Provide insights into the missing data
 
+Questions to address:
+
+- Are there any noticeable trends in the number of collisions over the years?
+- Are there specific times of day, days of thte week, or months of the year when collisions are more likely to occur?
+- How do weather conditions affect the frequency and severity of collisions?
+- Is there a correlations between the severity of a collisions and factors such as road conditions or time of day?
+
 
 ## Data Source Background
 
