@@ -1,5 +1,6 @@
 # Seattle_Car_Crash_Analysis
 Currently in Progress:
+
 Exploratory Data Analysis project aimed to show insights on King County traffic accidents using SQL and PowerBI.
 
 This project is based off of my [Final Group Project](BIS412_Final_Project\README.md) for BIS412 Advanced Data Visualizations Class which was done using R.
