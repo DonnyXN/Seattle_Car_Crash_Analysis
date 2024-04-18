@@ -9,7 +9,7 @@ This project is based off of my [Final Group Project](https://github.com/DonnyXN
 
 The goal is to create a dashboard that visualizes the most common types of car accidents in Seattle and where they occur. Our goal is to design dashboard that represents useful information that aims to show attributes of various collisions occurring in the city of Seattle. This information will hopefully help auto engineers make safety adjustments, and policymakers adjust traffic safety precautions. Overall this project will lead to public awareness of the leading factors of car crashes. 
 
-Tasks to address for thid Dashboard:
+Tasks to address for this Dashboard:
 - Make an interactive dashboard.
 - Display comparisons over successive years to show the leading variables in car accidents.
 - Provide a geographical map of where accidents frequently occur.
@@ -17,26 +17,19 @@ Tasks to address for thid Dashboard:
 - Display accident variables that are most common by month.
 - Find correlations and co-occurrences of different variables.
 - Provide insights into the missing data
-- 
+  
+EDA Query questions:
 - Are there any noticeable trends in the number of collisions over the years?
 - Are there specific times of day, days of thte week, or months of the year when collisions are more likely to occur?
 - How do weather conditions affect the frequency and severity of collisions?
 - Is there a correlations between the severity of a collisions and factors such as road conditions or time of day?
-
-Querying Questions to answers:
-
 - How many collisions occurred between January 1, 2020 and December 31, 2023?
 - Which months had the leading number of accidents.
 - What are the top 10 most common collision types and their respective counts?
 - How many collisions resultd in injuries (severity code 2) in 2021?
 - How many collisions occurred on each day of the week?
-- How many collisions involved bicycles?
-- What is the distribution of collision severity (injury vs property damage) for collisions that occurred in different weater conditions>
-- During which hours of the day do pedertian-involved collisions most frequesntly occur>
-- What is the average number of vehicles involved in each collision type?
-- What percentage of collisions resulted in injuries for each month.
-- 
-- 
+
+
 
 ## Data Source Background
 
