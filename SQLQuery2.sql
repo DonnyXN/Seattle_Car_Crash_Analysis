@@ -1,0 +1,17 @@
+-- Data cleaning
+SELECT 
+	X,
+	Y,
+	OBJECTID,
+	INCKEY,
+	LOCATION,
+	SEVERITYCODE,
+	COLLISIONTYPE,
+	CONVERT(varchar, INCDTTM, 111) AS DATE,
+	SDOT_COLDESC,
+	HITPARKEDCAR
+INTO clean_collisions
+FROM dbo.SDOT_Collisions_All_Years$
+
+
+
